@@ -1,4 +1,4 @@
-# this repo will include things such as:
+# this directory will include things such as:
 # high score data
 # snake and food sprites
 # background music
